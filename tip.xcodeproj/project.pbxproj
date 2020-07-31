@@ -103,8 +103,8 @@
 				700B58C924D35B13001C02AB /* SceneDelegate.swift */,
 				700B58CB24D35B13001C02AB /* ViewController.swift */,
 				700B58CD24D35B13001C02AB /* Main.storyboard */,
-				700B58D024D35B17001C02AB /* Assets.xcassets */,
 				700B58D224D35B17001C02AB /* LaunchScreen.storyboard */,
+				700B58D024D35B17001C02AB /* Assets.xcassets */,
 				700B58D524D35B17001C02AB /* Info.plist */,
 			);
 			path = tip;
